@@ -1,0 +1,11 @@
+ISBoard
+IBDAlm
+IBDPMManager
+ICRM
+IDMM
+IFilePatrol
+IMMI
+IPostManager
+ISubscribe
+IOTNProDomainAdapter
+plugin_type
